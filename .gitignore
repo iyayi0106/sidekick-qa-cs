@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/chroma/
+outputs/audit_cache.jsonl
+# Deliverable 2 artifacts (issue_log, patterns, updated_kb) are committed
+.streamlit/secrets.toml
+.env
+*.egg-info/

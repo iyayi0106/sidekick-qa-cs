@@ -1,0 +1,405 @@
+[
+  {
+    "id": 1,
+    "cited_articles": [
+      1
+    ],
+    "advisor_question": "What's the minimum number of rooms needed for a hotel group booking?",
+    "sidekick_response": "For hotel group bookings at Fora, the minimum is 10+ rooms. Once you reach this threshold, you'll work with the\nhotel's group sales team instead of booking individual reservations. Groups qualify for special rates, contracts, and\nbenefits like complimentary rooms based on the size of your block."
+  },
+  {
+    "id": 2,
+    "cited_articles": [
+      4
+    ],
+    "advisor_question": "What attrition should I negotiate for a wedding block?",
+    "sidekick_response": "For wedding blocks, I'd recommend aiming for 15% attrition as your starting point. Wedding groups usually have\nfirm headcounts since guest lists are finalized months in advance, making attendance predictable. This gives you a\ngood rate while managing risk."
+  },
+  {
+    "id": 3,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's a cut-off date?",
+    "sidekick_response": "A cut-off date is the deadline to finalize your rooming list and release unused rooms back to the hotel. Typically set\n30-60 days before arrival, this is when:\n\u2014 Unused rooms are released\n\u2014 The group is charged for rooms up to the attrition minimum\n\u2014 The hotel can resell released inventory\nPro tip: Set your internal cut-off 7-10 days before the hotel's deadline to give yourself a buffer."
+  },
+  {
+    "id": 4,
+    "cited_articles": [
+      9
+    ],
+    "advisor_question": "What commission do Hyatt groups pay?",
+    "sidekick_response": "Hyatt groups typically pay 8-10% commission depending on the property. Major chains like Marriott, Hilton, Hyatt,\nand IHG generally fall in the 8-10% range for group bookings."
+  },
+  {
+    "id": 5,
+    "cited_articles": [
+      1
+    ],
+    "advisor_question": "How many cabins do I need for a cruise group?",
+    "sidekick_response": "Cruise groups require a minimum of 8+ staterooms. Keep in mind that cruise lines measure groups by\nstaterooms/cabins, not passengers. So a cabin with 2 passengers counts as 1 cabin toward your group minimum,\nand a cabin with 4 passengers also counts as just 1 cabin."
+  },
+  {
+    "id": 6,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "What's the difference between speculative and contracted cruise groups?",
+    "sidekick_response": "Great question! Here's the breakdown:\nSpeculative Hold (Spec):\n\u2014 Non-committal hold on cabins\n\u2014 No initial deposit required\n\u2014 Can release cabins without penalty\n\u2014 Cruise line can recall cabins with notice (recall date)\n\u2014 Best for testing interest or uncertain headcount\nContracted Group:\n\u2014 Formal commitment with deposit (typically 10-20%)\n\u2014 Minimum cabin requirement with attrition clause\n\u2014 Better pricing and amenities than spec\n\u2014 Locked-in rates\n\u2014 Best for committed groups of 15+ cabins"
+  },
+  {
+    "id": 7,
+    "cited_articles": [
+      10
+    ],
+    "advisor_question": "Should I use a DMC or tour operator for my corporate group's trip?",
+    "sidekick_response": "It depends on what your corporate group is looking for:\nTour Operator: Best for pre-packaged itineraries and budget-conscious groups. Good if your company wants a\nstandard experience with set pricing.\nDMC: Best for custom experiences and VIP treatment. Good if your company wants unique activities and\nhigh-touch service.\nWhat's your group size, destination, and budget range? That would help narrow down the better option."
+  },
+  {
+    "id": 8,
+    "cited_articles": [
+      1
+    ],
+    "advisor_question": "Do group bookings get preferred partner perks?",
+    "sidekick_response": "No, group bookings do not offer preferred partner perks and amenities. This is an important difference from\nindividual (FIT) bookings. Groups follow different processes and typically involve contracts, special group rates,\nand group-specific benefits like complimentary rooms, but not the standard preferred partner perks."
+  },
+  {
+    "id": 9,
+    "cited_articles": [
+      2
+    ],
+    "advisor_question": "How many rooms do I need for a hotel group?",
+    "sidekick_response": "For hotel groups, you need 8+ rooms to qualify for group rates. Once you reach this threshold, you'll work with the\nhotel's group sales team to negotiate contracts and special terms."
+  },
+  {
+    "id": 10,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's the standard complimentary room ratio for hotel groups?",
+    "sidekick_response": "The standard complimentary room ratio is 1:40, meaning you receive one complimentary room for every 40 paid\nrooms. For example:\n\u2014 80 paid rooms = 2 comp rooms\n\u2014 45 paid rooms = 1 comp room\n\u2014 35 paid rooms = 0 comp rooms\nComp rooms can be used for the group organizer, tour manager, or sold to reduce client costs."
+  },
+  {
+    "id": 11,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's attrition and how does it work?",
+    "sidekick_response": "Attrition is the minimum percentage of your room block that must be filled. Industry standard is 20-30% attrition,\nmeaning your group must fill 70-80% of the block. For example, if you have a 50-room block with 20% attrition,\nyour group must fill at least 40 rooms. If you only fill 38 rooms, you'd owe payment for the 2-room shortfall."
+  },
+  {
+    "id": 12,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What items are typically negotiable in a hotel group contract?",
+    "sidekick_response": "You can typically negotiate:\nRates:\n\u2014 Base room rate\n\u2014 Discounts for larger groups\n\u2014 Shoulder date flexibility\nAmenities:\n\u2014 Complimentary breakfast\n\u2014 Welcome reception\n\u2014 Room upgrades\n\u2014 Late checkout\n\u2014 Resort fee waivers\nTerms:\n\u2014 Attrition percentage\n\u2014 Cut-off date extension\n\u2014 Deposit schedule adjustments\n\u2014 Flexible cancellation terms\nMeeting Space:\n\u2014 Complimentary meeting rooms\n\u2014 AV equipment\n\u2014 Wi-Fi access"
+  },
+  {
+    "id": 13,
+    "cited_articles": [
+      2
+    ],
+    "advisor_question": "What's the cruise group minimum?",
+    "sidekick_response": "Cruise groups require a minimum of 5+ cabins. This is the industry standard threshold for accessing group rates\nand benefits like TC Credits and GAP Points."
+  },
+  {
+    "id": 14,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's ROH mean in a hotel contract?",
+    "sidekick_response": "ROH stands for \"Run of House.\" This means the hotel assigns room types based on availability at check-in rather\nthan guaranteeing specific room categories for your group. The hotel ensures appropriate accommodations, but\nyour group doesn't get to choose specific room types upfront. ROH is common for groups and often comes with\nbetter rates in exchange for this flexibility."
+  },
+  {
+    "id": 15,
+    "cited_articles": [
+      4
+    ],
+    "advisor_question": "Should I push for lower attrition to get better rates?",
+    "sidekick_response": "Yes! Lower attrition percentages often result in better rates from hotels. If you're confident about your group size\nand have already collected deposits from travelers, pushing for 10-15% attrition can significantly improve your\npricing. Just make sure you calculate the worst-case scenario penalty before agreeing."
+  },
+  {
+    "id": 16,
+    "cited_articles": [
+      8
+    ],
+    "advisor_question": "What are TC Credits on cruises?",
+    "sidekick_response": "TC Credits (Tour Conductor Credits) are rewards earned based on your cruise group size. You typically earn\napproximately 1 TC credit per 8-10 cabins booked (exact rate varies by cruise line).\nTC Credits can be redeemed for:\n1. Free cabin for group leader/tour conductor\n2. Onboard events or amenities (private party, specialty dining, shore excursions)\n3. Additional commission (convert credit to extra advisor commission)\nTC Credits must be used on the same sailing - they cannot be banked for future cruises."
+  },
+  {
+    "id": 17,
+    "cited_articles": [
+      2
+    ],
+    "advisor_question": "What's typical attrition for groups?",
+    "sidekick_response": "Typical attrition for groups is 15-20% below your block size. This means you need to fill 80-85% of your room block\nto avoid penalties."
+  },
+  {
+    "id": 18,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "How do GAP Points work?",
+    "sidekick_response": "GAP Points (Group Amenity Points) are cruise line perks awarded to groups based on total cabins booked. The\nformula varies by cruise line, but typically:\n\u2014 10 cabins = 50 GAP points\n\u2014 20 cabins = 120 GAP points\n\u2014 40 cabins = 300 GAP points\nYou can redeem GAP Points for:\n\u2014 Onboard credit (OBC) for travelers\n\u2014 Welcome amenities (champagne, chocolates, gifts in cabins)\n\u2014 Group events (happy hours, private parties)\n\u2014 Wi-Fi packages\n\u2014 Specialty dining\n\u2014 Shore excursions\nWork with your cruise line group coordinator 30-60 days before sailing to select amenities."
+  },
+  {
+    "id": 19,
+    "cited_articles": [
+      4
+    ],
+    "advisor_question": "What's a good attrition rate for a corporate group?",
+    "sidekick_response": "For corporate groups, aim for 15-18% attrition. Corporate groups typically have confirmed attendees, though\nlast-minute changes can happen due to business needs or schedule conflicts. This range balances good pricing with\nreasonable risk management."
+  },
+  {
+    "id": 20,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "What's the difference between a cabin and a berth on a cruise?",
+    "sidekick_response": "This is an important distinction! Cruise lines measure groups in staterooms/cabins, not passengers (berths).\n\u2014 Cabin/Stateroom: The physical room\n\u2014 Berth: An individual bed/passenger\nFor group minimums:\n\u2014 A cabin with 2 passengers = 1 cabin toward your group minimum (not 2)\n\u2014 A cabin with 4 passengers = still 1 cabin (not 4)\nSo 8 cabins with 32 passengers total still equals only 8 cabins for group booking purposes."
+  },
+  {
+    "id": 21,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "What's a charter cruise booking?",
+    "sidekick_response": "A charter is when you book exclusive use of an entire ship or a large section (typically 100+ cabins). Charter\nbookings offer:\nFeatures:\n\u2014 Buyout of ship or significant portion\n\u2014 Custom itineraries possible\n\u2014 Exclusive events and branding\n\u2014 Significant upfront commitment\n\u2014 Highest level of customization\nBest for:\n\u2014 Large corporate incentive groups\n\u2014 Destination weddings with 100+ guests\n\u2014 Conferences or conventions\n\u2014 Ultra-luxury private experiences\nCharters require substantial deposits (often 25%+ of total) and involve working directly with the cruise line's event\nplanning team."
+  },
+  {
+    "id": 22,
+    "cited_articles": [
+      9
+    ],
+    "advisor_question": "I'm quoting a 30-room Hyatt group - what commission should I expect?",
+    "sidekick_response": "For a Hyatt group, you can expect around 8-10% commission on the total room revenue. With 30 rooms, you're in\nthe standard group commission tier for major hotel chains."
+  },
+  {
+    "id": 23,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "When should I convert a spec hold to contracted?",
+    "sidekick_response": "Consider converting from speculative to contracted when:\n\u2014 Your group size justifies better contracted rates\n\u2014 The recall date is approaching\n\u2014 You've reached 60-70% of your target cabin count\n\u2014 The sailing is filling up and you want to lock inventory\nThe conversion process involves contacting your cruise line group desk, negotiating contracted terms, and\nsubmitting a deposit. Existing spec bookings will transfer to the contracted block."
+  },
+  {
+    "id": 24,
+    "cited_articles": [
+      5
+    ],
+    "advisor_question": "What's the typical deposit schedule for hotel groups?",
+    "sidekick_response": "Most hotel group contracts require:\n1. Initial deposit: 20-30% at contract signing\n2. Second deposit: 60 days before arrival\n3. Final payment: 30 days before arrival\nHowever, deposit schedules are negotiable based on group size and hotel policy. For events far out (6+ months),\nyou may be able to spread payments across more intervals."
+  },
+  {
+    "id": 25,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "When is final payment due for cruise groups?",
+    "sidekick_response": "For most cruise sailings over 6 nights, final payment is due 120 days before sailing. Shorter cruises have different\ntimelines:\n\u2014 2-5 night cruises: 75 days before sailing\n\u2014 6+ night cruises: 120 days before sailing\nThis is when all travelers' final payments must be submitted to the cruise line."
+  },
+  {
+    "id": 26,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "Can I negotiate resort fees for my 30-room wedding block?",
+    "sidekick_response": "Resort fees are typically non-negotiable at resort properties as they're built into the pricing model. However, it\nnever hurts to ask during contract negotiations, especially for a group of 30 rooms. You might have better luck\ngetting other concessions like complimentary breakfast or welcome amenities instead."
+  },
+  {
+    "id": 27,
+    "cited_articles": [
+      5
+    ],
+    "advisor_question": "Should I collect payments from individual travelers or have the group organizer collect?",
+    "sidekick_response": "There are two models, each with pros and cons:\nModel 1: Advisor Collects from Travelers\n\u2014 Pros: Full control, direct traveler relationship, can track who paid\n\u2014 Cons: Time-intensive, you're responsible if travelers don't pay, need merchant account\n\u2014 Best for: Small groups (10-20 travelers)\nModel 2: Group Organizer Collects\n\u2014 Pros: Less admin work, organizer is responsible for collection, one point of contact\n\u2014 Cons: Less visibility into who paid, dependent on organizer's follow-through\n\u2014 Best for: Larger groups, corporate groups, weddings\nChoose based on group size and organizer reliability."
+  },
+  {
+    "id": 28,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "What commission do cruises typically pay on groups?",
+    "sidekick_response": "Standard cruise group commission is approximately 16%. Luxury cruise lines may offer 18-20%, and some cruise\nlines offer tiered commission structures where larger groups earn higher commission rates (e.g., 16% for 8-15\ncabins, 17% for 16-30 cabins, 18% for 31+ cabins)."
+  },
+  {
+    "id": 29,
+    "cited_articles": [
+      5
+    ],
+    "advisor_question": "How far in advance should I set my internal payment deadlines vs. hotel deadlines?",
+    "sidekick_response": "It's recommended to set your internal deadlines earlier than supplier deadlines to give yourself a buffer.\nFor example:\n\u2014 If hotel wants final payment 30 days out, tell clients it's due 40 days out\n\u2014 If hotel cut-off is 45 days, set your internal cut-off at 55-60 days\nThis gives you time to follow up with late payers and adjust your room block if needed before the hotel's hard\ndeadline."
+  },
+  {
+    "id": 30,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's a courtesy hold?",
+    "sidekick_response": "A courtesy hold is an informal room block offered by some hotels for groups below the 10-room minimum (typically\n5-8 rooms). These holds:\n\u2014 Don't require a formal contract\n\u2014 Usually no deposit upfront\n\u2014 Are not guaranteed (hotel can release rooms)\n\u2014 Useful for small weddings or family reunions\nSince they're below group minimums, you won't get group contract terms, but it helps keep rooms together."
+  },
+  {
+    "id": 31,
+    "cited_articles": [
+      1
+    ],
+    "advisor_question": "If my group is split across multiple hotels, how are group minimums calculated?",
+    "sidekick_response": "Each property is evaluated separately for group minimums. For example:\n\u2014 6 rooms at Hotel A = Does not meet 10-room minimum\n\u2014 5 rooms at Hotel B = Does not meet 10-room minimum\n\u2014 Total 11 rooms across both = Still book as FIT at each property\nYou need to meet the 10-room minimum at a single property to qualify for group rates and contracts at that\nproperty."
+  },
+  {
+    "id": 32,
+    "cited_articles": [
+      9
+    ],
+    "advisor_question": "What's standard cruise commission?",
+    "sidekick_response": "Standard cruise commission for groups is 15-16%. Luxury cruise lines typically offer 18-20%, and some lines have\ntiered structures where larger groups earn higher percentages."
+  },
+  {
+    "id": 33,
+    "cited_articles": [
+      6
+    ],
+    "advisor_question": "What's the group minimum for tour operators?",
+    "sidekick_response": "Most tour operators require a minimum of 10+ travelers for group pricing. Some operators may accommodate 8-10\ntravelers at higher per-person pricing. Ideal group size is typically 15-25 travelers, and groups of 30+ may qualify for\nprivate departures or custom terms."
+  },
+  {
+    "id": 34,
+    "cited_articles": [
+      1
+    ],
+    "advisor_question": "Do all-inclusive resorts have different group minimums?",
+    "sidekick_response": "All-inclusive resorts typically follow the same 10+ room minimum as hotels. Some all-inclusive brands may offer\ngroup coordinators or perks starting at 8 rooms, but 10+ is the standard threshold for formal group contracts."
+  },
+  {
+    "id": 35,
+    "cited_articles": [
+      7
+    ],
+    "advisor_question": "What's the minimum for river cruise groups?",
+    "sidekick_response": "River cruises often have lower minimums than ocean cruises, typically 5-6 staterooms depending on the cruise line.\nHowever, this can vary by river cruise company, so it's best to check with the specific line's group desk."
+  },
+  {
+    "id": 36,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What happens if my group doesn't meet attrition?",
+    "sidekick_response": "If your group doesn't meet the attrition minimum, you (or the client) pay for the shortfall. Most commonly, you pay\nthe contracted rate for unfilled rooms.\nFor example:\n\u2014 40-room block with 25% attrition (must fill 30 rooms)\n\u2014 Only 28 rooms fill\n\u2014 You owe payment for 2 additional rooms at the contracted rate\nSome contracts calculate attrition on revenue rather than rooms, and rarely, hotels may waive penalties if they\nre-sell your released rooms - but don't count on this."
+  },
+  {
+    "id": 37,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "Can I reduce my room block before the cut-off date?",
+    "sidekick_response": "Sometimes. Many contracts allow a one-time reduction (often 10-20% of the original block) without penalty if done\n60-90 days before arrival. This needs to be negotiated and included in your contract terms. Always check your\nspecific contract for reduction clauses."
+  },
+  {
+    "id": 38,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "What's a sliding scale cancellation policy?",
+    "sidekick_response": "A sliding scale cancellation policy means cancellation penalties increase as the arrival date approaches. A typical\nstructure looks like:\n\u2014 90+ days out: Full refund minus deposit\n\u2014 60-89 days: 25% penalty\n\u2014 30-59 days: 50% penalty\n\u2014 0-29 days: 100% penalty (full payment due)\nThis protects both the hotel and the client - more flexibility further out, stricter closer to arrival."
+  },
+  {
+    "id": 39,
+    "cited_articles": [
+      4
+    ],
+    "advisor_question": "My hotel offered 20% attrition for a wedding - should I negotiate lower?",
+    "sidekick_response": "You could try! The article recommends 15% attrition for weddings since guest lists are usually firm. If you've already\ncollected deposits and are confident in your headcount, negotiating down to 15% could get you a better rate. Lower\nattrition = better pricing but higher risk."
+  },
+  {
+    "id": 40,
+    "cited_articles": [
+      8
+    ],
+    "advisor_question": "I have 24 cruise cabins and earned 3 TC Credits - what's the best way to use them?",
+    "sidekick_response": "With 3 TC Credits, you have several options:\n1. Use for free cabins: Most common - provide 3 free inside cabins for group leaders or tour conductors\n2. Convert to commission: Contact your cruise line to convert credits to additional commission\n3. Use for group amenities: Apply toward onboard events like private cocktail parties or specialty dining\nEach TC credit typically equals one free inside cabin. You'll need to decide based on what adds most value for your\ngroup - free cabins for organizers or extra commission for yourself."
+  },
+  {
+    "id": 41,
+    "cited_articles": [
+      8
+    ],
+    "advisor_question": "Can I use 1 TC credit for a cabin and convert the other 2 to commission?",
+    "sidekick_response": "I don't have specific information about splitting TC credit redemption. I'd recommend contacting your cruise line\ngroup coordinator to ask about your redemption options and whether you can allocate different credits in different\nways."
+  },
+  {
+    "id": 42,
+    "cited_articles": [
+      8
+    ],
+    "advisor_question": "How much commission do I get if I convert a TC credit?",
+    "sidekick_response": "TC Credits can be converted to additional commission, but the exact amount varies by cruise line and sailing. You'll\nneed to contact your cruise line group coordinator to get the specific conversion rate for your booking."
+  },
+  {
+    "id": 43,
+    "cited_articles": [
+      10
+    ],
+    "advisor_question": "Should I use a DMC or tour operator for my group trip to Japan?",
+    "sidekick_response": "Here's the difference:\nTour Operator: Creates and sells packaged travel experiences including accommodations, transportation,\nactivities, and guides. Best for pre-packaged, budget-friendly group travel with set itineraries.\nDMC (Destination Management Company): Provides on-the-ground services in a specific destination like transfers,\nlocal guides, and activity coordination. Best for custom, high-touch experiences.\nFor Japan, if you want a pre-built package, go with a tour operator. If you need local coordination and custom\nexperiences, use a DMC."
+  },
+  {
+    "id": 44,
+    "cited_articles": [
+      10
+    ],
+    "advisor_question": "My client wants a custom 25-person Japan trip with specific hotels and experiences - DMC or TO?",
+    "sidekick_response": "For a custom itinerary with specific requirements, a DMC would be your best choice. DMCs specialize in highly\ncustomizable experiences and work with your specific dates and preferences. Tour operators typically offer\npre-built packages with less flexibility."
+  },
+  {
+    "id": 45,
+    "cited_articles": [
+      10
+    ],
+    "advisor_question": "What commission do DMCs pay?",
+    "sidekick_response": "DMCs typically pay 10-15% commission on services booked. The exact rate varies by destination, services\nprovided, and volume of business. Commission is usually paid 30-60 days after travel is complete."
+  },
+  {
+    "id": 46,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "Can I negotiate the 1:40 comp room ratio?",
+    "sidekick_response": "The standard complimentary room ratio is 1:40 (one comp room per 40 paid rooms). This is the industry standard\nratio that most hotels follow for group bookings."
+  },
+  {
+    "id": 47,
+    "cited_articles": [
+      3
+    ],
+    "advisor_question": "My wedding group has 35 rooms - can I get better than 1:40 comp ratio?",
+    "sidekick_response": "With 35 rooms, you're just under the 40-room threshold for a complimentary room at the standard 1:40 ratio.\nUnfortunately, you wouldn't qualify for any comp rooms at this size. You'd need 40 paid rooms to get 1 comp room."
+  },
+  {
+    "id": 48,
+    "cited_articles": [
+      10
+    ],
+    "advisor_question": "How far in advance should I book a group trip to Italy?",
+    "sidekick_response": "For group travel, you'll want to book well in advance to secure inventory and get the best rates. I'd recommend\nreaching out 6-12 months before travel, especially for popular destinations like Italy. Tour operators and DMCs\nneed lead time to plan custom itineraries and lock in hotels."
+  },
+  {
+    "id": 49,
+    "cited_articles": [
+      1,
+      3,
+      10
+    ],
+    "advisor_question": "What's a good price per person for a 20-person group trip to Japan?",
+    "sidekick_response": "I don't have specific pricing information for Japan group trips in the knowledge base. Pricing varies significantly\nbased on:\n\u2014 Length of trip\n\u2014 Accommodation level (budget vs luxury)\n\u2014 Whether using tour operator vs DMC\n\u2014 Season (cherry blossom season vs off-peak)\n\u2014 Specific cities and experiences included\nI'd recommend reaching out to the Tour Ops team who can provide destination-specific guidance for Japan group\npricing and connect you with preferred partners."
+  },
+  {
+    "id": 50,
+    "cited_articles": [
+      1,
+      3
+    ],
+    "advisor_question": "What's the best attrition rate for my wedding block of 40 rooms?",
+    "sidekick_response": "The best attrition rate depends on several factors specific to your situation:\n\u2014 How confident are you about guest attendance?\n\u2014 Have you already collected deposits from guests?\n\u2014 How far out is the wedding?\n\u2014 What's your risk tolerance?\nIndustry standard for weddings is 20-25% attrition. If you're very confident and have deposits, you might negotiate\nlower for better rates. If there's uncertainty, higher attrition (25-30%) provides more protection. I'd recommend\ndiscussing your specific situation with the Booking Platform team to determine the right balance for your group.\nConfidential Sample Conversations \u00b7 15"
+  }
+]

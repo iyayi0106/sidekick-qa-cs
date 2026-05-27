@@ -1,0 +1,9 @@
+[
+  {
+    "conversation_id": 50,
+    "action": "approve_issue",
+    "issue_description": "Attrition recommendation spans 20-30% with judgment factors; borderline vs other wedding guidance",
+    "proposed_fix": "Expert review with Booking Platform; align KB wedding attrition policy",
+    "notes": "Auto-queued for expert review"
+  }
+]
